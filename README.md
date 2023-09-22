@@ -1,5 +1,5 @@
 # Boris_Relativistic_Algorithm
-Algorithm for solving the Lorentz force equations and tracking position and time of a relativistic particle (coded in MATLAB and Python). 
+Algorithm for solving the Lorentz force equations and tracking position and velocity over time of a relativistic particle (coded in MATLAB and Python). 
 Uses the Boris method and explores the motion for 3 different 2 step magnetic field rotations. 
 
 2 files are uploaded for each MATLAB and Python scripts which should be identical to eachother. 
